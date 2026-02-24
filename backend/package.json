@@ -1,0 +1,27 @@
+{
+  "name": "sahara-backend",
+  "version": "1.0.0",
+  "description": "Backend for Sahara Post-Bereavement Assistant",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "ingest": "node rag/ingest.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "@xenova/transformers": "^2.16.0",
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.5",
+    "docx": "^8.5.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "faiss-node": "^0.5.1",
+    "google-auth-library": "^10.5.0",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^8.3.2",
+    "multer": "^1.4.5-lts.1",
+    "openai": "^4.36.0",
+    "pdf-parse": "^1.1.1"
+  }
+}

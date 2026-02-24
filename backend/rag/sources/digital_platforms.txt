@@ -1,0 +1,53 @@
+Bank Account (RBI + SBI):
+  Accounts ≤₹5L, no nominee: indemnity bond only (no succession cert)
+  Docs: death cert ×3, claimant KYC, indemnity bond, passbook
+  Processing: 7–15 working days
+  Joint account survivor: death cert only
+  Nominee: ID + death cert + claim form → 15 days
+  Above ₹5L: Legal Heir Certificate or Succession Certificate
+  Escalation: Banking Ombudsman if >30 days
+  SBI: visit home branch, request "Claim Form for Deceased Account"
+
+Life Insurance (IRDAI + LIC):
+  Non-early claims: settle within 30 days
+  Early claims (<3 yrs): max 90 days
+  Docs: Form A (3783), death cert, original policy, claimant ID, NEFT mandate
+  LIC: any branch, Download Form 3783 from licindia.in/forms
+  Contact: 022-68276827 | claimshelpdesk@licindia.in
+
+EPF/PF (EPFO):
+  Form 10D: monthly pension (widow/dependents)
+  Form 20: lump-sum PF withdrawal
+  Form 5IF: EDLI insurance claim
+  Submit via employer HR or EPFO portal (if UAN active)
+  Docs: death cert, UAN, nominee/heir details, bank proof
+  Processing: 20 working days
+
+Demat/Stocks (SEBI):
+  With nomination: 7-day settlement
+  Without: transmission form + death cert + succession cert + indemnity bond
+  Below ₹5L market value: indemnity bond only
+  Contact broker directly for their transmission form
+
+UPI Wallets:
+  No formal nomination system in India
+  Contact support with death cert + claimant ID
+  PhonePe: support.phonepe.com → deceased account report
+  Google Pay: Google account support
+  Paytm: care@paytm.com subject "Deceased Account – [Phone]"
+
+Email:
+  Gmail: g.co/deceaseduserhelp — death cert + relationship proof
+  No account access; only closure/deletion
+  Outlook: microsoft.com/en-us/concern/deceased
+
+Social Media:
+  Facebook: memorialization/removal → facebook.com/help/deceased
+  Instagram: removal only → help.instagram.com/264154560391256
+  Twitter/X: deactivation → help.twitter.com/forms/privacy
+  WhatsApp: unlink SIM; auto-deletes after 120 days
+
+Subscriptions:
+  List from bank statements; contact each service's support
+  Most will cancel + pro-rata refund with death cert
+  Cancel UPI AutoPay via bank's UPI app
